@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18sE9ObKUdf9Bw8dIvdtMrlq_tqCgfwfnaA&s);
+  background-size: cover;
+}
+button{
+  padding: 30px;
+  margin: 10px;
+  background-color: rgb(8, 59, 95);
+  color: white;
+  border-radius: 20px;
+}
